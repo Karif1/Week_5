@@ -35,7 +35,12 @@ while (count > 0) {
         console.log("No more " + word + " of beer on the wall.");
       }
 
+
+
       const bools = [true, true, false, true, false, true, true, true]
       for (var i = 0; i = true; i){
           console.log(i)
       }
+
+      let text = apples
+      
