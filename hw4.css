@@ -28,7 +28,7 @@ h1{
     display: inline-block;
 }
 
-#mainpage > p{
+#mainpage > span{
     padding: 15px;
     border-radius: 3px;
     background: red;
